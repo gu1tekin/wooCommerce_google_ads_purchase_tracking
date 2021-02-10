@@ -23,7 +23,7 @@ Do not forget to replace
 Built With
 
 ```
-- [php]
+[php]
 ```
 
 Authors
