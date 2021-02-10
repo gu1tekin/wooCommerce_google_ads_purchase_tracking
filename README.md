@@ -24,7 +24,6 @@ Built With
 
 ```
 - [php]
-- [js]
 ```
 
 Authors
