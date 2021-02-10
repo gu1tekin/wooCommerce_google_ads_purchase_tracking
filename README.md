@@ -29,9 +29,7 @@ Built With
 
 Authors
 
-```
-- **Gultkein Cirik** - [gu1tekin](https://github.com/gu1tekin)
-```
+**Gultkein Cirik** - [gu1tekin](https://github.com/gu1tekin)
 
 ## Screenshots from Tag Assistant Legacy:
 
