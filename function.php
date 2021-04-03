@@ -31,4 +31,5 @@ add_action('woocommerce_thankyou', 'ads_purchase_tracking');
         'currency': '<?php echo $currency ?>',
         'transaction_id': '<?php echo $order_id ?>'
   });
-</script> <?php } ?>
+</script>
+<?php } ?>

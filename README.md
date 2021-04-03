@@ -20,12 +20,6 @@ Do not forget to replace
 - AW-CONVERSION_LABEL
 ```
 
-Built With
-
-```
-[php]
-```
-
 Authors
 
 **Gultkein Cirik** - [gu1tekin](https://github.com/gu1tekin)
