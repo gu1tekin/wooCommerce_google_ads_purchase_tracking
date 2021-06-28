@@ -32,4 +32,4 @@ add_action('woocommerce_thankyou', 'ads_purchase_tracking');
         'transaction_id': '<?php echo $order_id ?>'
   });
 </script>
-<?php } ?>
+<?php } 
